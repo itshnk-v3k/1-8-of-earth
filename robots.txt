@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1-8-of-the-earth.vercel.app/sitemap.xml
